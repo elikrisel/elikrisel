@@ -3,7 +3,7 @@
 ## About me
 **Hello!** 
 
-I'm glad you took your free time to check out my repository! I'm Kristofer Sell and  currently on my new spiritual journey to broaden my horizons in _Software development_. I started with programming back in 2020 with experimenting in console applications in both C# and C++ and later decided to get into _Game Development_. 
+I'm glad you were able to find this place and check out my repository! I'm Kristofer Sell and currently new journey to broaden my horizons in _Software development_. I started with programming back in 2020 with experimenting in console applications in both C# and C++ and later decided to get into _Game Development_. 
 
 **Down below you see both my skills and past experiences.**
 
@@ -46,15 +46,12 @@ I'm glad you took your free time to check out my repository! I'm Kristofer Sell 
 
 ##  Professional Experience
 
-
-
 ### [A Bit Ago Studio](https://abitago.se/)
 #### _2023-2024_
 
+- I was working on a project that is currently under non-disclosure agreement.
+- Had a divided role at the studio as a Technical Game Designer.
 
--
--
--
 
 ### <a id='internship'>[Blamorama Games](https://blamorama.se/)</a>
 #### _01.2023-06.2023_
