@@ -19,6 +19,7 @@ I'm glad you were able to find this place and check out my repository! I'm Krist
 <img src="scr/css-3.svg" width="32" height="32" alt="CSS"/>
 <img src="scr/cplusplus.svg" width="30" height="30" alt="C++"/>
 <img src="scr/javascript.svg" width="30" height="30" alt="Javascript"/>
+<img src="scr/sql-database.svg" width="30" height="30" alt="SQL"/>
 </p>
 
 #### _Development Tools_
@@ -26,6 +27,7 @@ I'm glad you were able to find this place and check out my repository! I'm Krist
 <img src="scr/visual-studio.svg" width="32" height="32" alt="VisualStudio"/>
 <img src="scr/vscode.svg" width="32" height="32" alt="VisualCode"/>
 <img src="scr/jetbrains-rider.svg" width="32" height="32" alt="JetbrainsRider"/>
+<img src="scr/ssms.svg" width="32" height="32" alt="SSMS"/>
 </p>
 
 ### Game Development
