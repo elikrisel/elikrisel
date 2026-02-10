@@ -33,9 +33,9 @@ I'm glad you were able to find this place and check out my repository! I'm Krist
 
 ### Game Development
 <p>
-<img src="scr/unity-engine.svg" width="32" height="32" alt="Unity"/>
-<img src="scr/unreal-engine.svg" width="32" height="32" alt="Unreal Engine"/>
-<img src="scr/godot-engine-noncolored.svg" width="32" height="32" alt="Godot Engine"/>
+<img src="scr/unity-white.svg" width="32" height="32" alt="Unity"/>
+<img src="scr/unreal-engine-white-icon.svg" width="32" height="32" alt="Unreal Engine"/>
+<img src="scr/godot_icon.svg" width="32" height="32" alt="Godot Engine"/>
 </p>
 
 #### _Other Tools_
